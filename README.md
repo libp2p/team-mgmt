@@ -13,11 +13,17 @@ This entails a few changes:
 * User focus beyond IPFS.  [@mgoelzer](https://github.com/mgoelzer) is working on product management tasks such as interviewing downstream users to understand what they need from libp2p.
 * Greater interaction between contributors.  We will be trying a bi-weekly meeting (see below) and a libp2p Summit in Berlin in July 2018.
 
-# Bi-weekly Call
+# Bi-weekly call
 
 We are planning to start a bi-weekly libp2p call every other **Thursday** at 17:00-17:30 UTC (10:00-10:30am PDT).  The first call will occur Thursday May 3, 2018.
 
 Join the call here:  https://zoom.us/j/405235579
 
-Each call has an agenda in the [agendas folders](https://github.com/libp2p/pm/tree/master/agendas).
+Agendas are in the [agendas folders](https://github.com/libp2p/pm/tree/master/agendas).
+
+# How to get involved in libp2p
+
+* Join us on #libp2p on freenode
+* Explore the [libp2p.io](https://libp2p.io/)
+* Join the bi-weekly call (lurkers ok!)
 
