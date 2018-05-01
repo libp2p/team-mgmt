@@ -24,6 +24,6 @@ Agendas are in the [agendas folders](https://github.com/libp2p/pm/tree/master/ag
 # How to get involved in libp2p
 
 * Join us on #libp2p on freenode
-* Explore the [libp2p.io](https://libp2p.io/)
+* Explore the [libp2p.io](https://libp2p.io/) website
 * Join the bi-weekly call (lurkers ok!)
 
