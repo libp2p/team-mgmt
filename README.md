@@ -15,7 +15,9 @@ This entails a few changes:
 
 # Bi-weekly call
 
-We are planning to start a bi-weekly libp2p call every other **Thursday** at 17:00-17:30 UTC (10:00-10:30am PDT).  The first call will occur Thursday May 3, 2018.
+We are planning to start a bi-weekly libp2p call every other **Thursday at 10:00-10:30am U.S. Pacific Time** (equals 17:00-17:30 UTC during summer months).  
+
+The first call will occur Thursday May 3, 2018.
 
 Join the call here:  https://zoom.us/j/405235579
 
