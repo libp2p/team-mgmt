@@ -41,4 +41,7 @@ Use case 2:  Transports (Felix)
 
 ```	
 		
-
+References:
+* [Sharding team's original questions issue regarding pubsub](https://github.com/libp2p/go-floodsub/issues/77)
+* [@fjl's blog post](https://bra.twurst.com/articles/eth-loves-libp2p.html)	
+* [Hsiao-wei's slides on Ethereum sharding requirements](https://docs.google.com/presentation/d/1qJInTUsx_dSo836lcDxq9jR7pv-QWyKYJemcYi_iQnA/edit#slide=id.p)
