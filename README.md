@@ -15,11 +15,11 @@ This entails a few changes:
 
 # Bi-weekly call
 
-We are planning to start a bi-weekly libp2p call every other **Thursday at 10:00-10:30am U.S. Pacific Time** (equals 17:00-17:30 UTC during summer months).  
+We are planning to start a bi-weekly libp2p call every other **Monday at 10:30-11:00am U.S. Pacific Time**.  [Add to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDV0MGFlMmJlYnNyaHBkMGI4M3NqMG5nZGdfMjAxODA2MDRUMTczMDAwWiBtaWtlQGxpYnAycC5pbw&tmsrc=mike%40libp2p.io&scp=ALL) with this link.
 
-The first call will occur Thursday May 3, 2018.
+The first call at this new Monday time will be on June 4.  After that, the call will occur every 2 weeks.
 
-Join the call here:  https://zoom.us/j/405235579
+Join the call here:  https://zoom.us/j/508697396
 
 Agendas are in the [agendas folders](https://github.com/libp2p/pm/tree/master/agendas).
 
