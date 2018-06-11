@@ -15,7 +15,7 @@ This entails a few changes:
 
 # Bi-weekly call
 
-We are planning to start a bi-weekly libp2p call every other **Monday at 10:30-11:00am U.S. Pacific Time**.  [Add to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDV0MGFlMmJlYnNyaHBkMGI4M3NqMG5nZGdfMjAxODA2MDRUMTczMDAwWiBtaWtlQGxpYnAycC5pbw&tmsrc=mike%40libp2p.io&scp=ALL) with this link.
+We are planning to start a bi-weekly libp2p call every other **Monday at 10:30-11:00am U.S. Pacific Time**.  [Add to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDV0MGFlMmJlYnNyaHBkMGI4M3NqMG5nZGdfMjAxODA2MThUMTczMDAwWiBsaWJwMnAuaW9fMHE5NjgyaTN0ZTdlYW5oZTlxN2FlMWM1OGdAZw&tmsrc=libp2p.io_0q9682i3te7eanhe9q7ae1c58g%40group.calendar.google.com&scp=ALL) with this link.
 
 The first call at this new Monday time will be on June 4.  After that, the call will occur every 2 weeks.
 
