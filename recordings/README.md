@@ -1,6 +1,6 @@
 # Links to Bi-weekly Call Recordings
 
-[2018-08-13](https://drive.google.com/drive/u/1/folders/1rcM6lFOnAvdOowKHzKlwTNZ5lmdxsU5b) - direct URL coming soon...
+[2018-08-13](https://drive.google.com/file/d/1D6tb2XCJRTzw9YzWSpvgVNUjkmQVb9X0/view?usp=sharing)
 
 [2018-07-02](https://drive.google.com/open?id=1ubX2QbPtuH4QmFVKZErU-Bk9tW3J1O4x)
 
