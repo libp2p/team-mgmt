@@ -1,5 +1,7 @@
 # Links to Bi-weekly Call Recordings
 
+[2018-09-10](https://youtu.be/FPNsNa8Qdi8) ([backup copy](https://drive.google.com/file/d/1wxZ1gwpru4aSYJdAObcJgpH-x6ASk-iX/view?usp=sharing))
+
 [2018-09-10](https://youtu.be/YKhJC_k7JIU)
 
 [2018-08-27](https://drive.google.com/open?id=1ITY18gCj7LJPXjzVQW3EhF1DMmN1os7Q)
