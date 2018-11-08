@@ -1,6 +1,6 @@
 ## Summary
 
-Call recording:  [https://youtu.be/YoTwZ5vFi80](https://youtu.be/YoTwZ5vFi80)
+Call recording:  [https://youtu.be/YoTwZ5vFi80](https://youtu.be/YoTwZ5vFi80) ([alternate copy](https://drive.google.com/open?id=1OFxpUSCxwHk0snepxF-BY9aSDFXAjEiB))
 
 We had a good but very wide-ranging discussion.  Key issues raised:
  - Do we even want "governance" at this time or is it too early?
