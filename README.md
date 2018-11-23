@@ -1,4 +1,4 @@
-# libp2p IPFS Team Planning, Management & Coordination threads
+# libp2p Team Planning, Management & Coordination threads
 
 
 <a href="http://ipn.io"><img src="https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square" /></a>
