@@ -1,6 +1,12 @@
-# libp2p Project Management
+# libp2p IPFS Team Planning, Management & Coordination threads
 
-libp2p is a modular peer-to-peer networking stack.  This repo tracks project management issues like our bi-weekly call.  For general information about libp2p, refer to the [libp2p.io](https://libp2p.io/) website or [the main repo](https://github.com/libp2p/libp2p).
+
+<a href="http://ipn.io"><img src="https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square" /></a>
+<a href="http://libp2p.io/"><img src="https://img.shields.io/badge/project-libp2p-yellow.svg?style=flat-square" /></a>
+<a href="http://webchat.freenode.net/?channels=%23libp2p"><img src="https://img.shields.io/badge/freenode-%23libp2p-yellow.svg?style=flat-square" /></a>
+<a href="https://waffle.io/libp2p/libp2p"><img src="https://img.shields.io/badge/pm-waffle-yellow.svg?style=flat-square" /></a>
+
+libp2p is a modular peer-to-peer networking stack.  This repo tracks team management issues like our bi-weekly call.  For general information about libp2p, refer to the [libp2p.io](https://libp2p.io/) website or [the main repo](https://github.com/libp2p/libp2p).
 
 # Bi-weekly call
 
@@ -13,6 +19,10 @@ Anyone is welcome to join!  If it's fine to come if you just want to learn about
 Call agendas are in the [agendas folders](https://github.com/libp2p/pm/tree/master/agendas).  Anyone can add topics.
 
 We also archive [recordings of the previous calls](https://github.com/libp2p/pm/tree/master/recordings) for anyone interested.
+
+# Repo Activity
+
+[![Throughput Graph](https://graphs.waffle.io/libp2p/libp2p/throughput.svg)](https://waffle.io/libp2p/libp2p/metrics/throughput)
 
 # Other ways to get involved in libp2p
 
