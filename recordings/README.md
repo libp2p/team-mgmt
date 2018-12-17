@@ -1,6 +1,6 @@
 # Links to Bi-weekly Call Recordings
 
-[2018-12-17](https://youtu.be/V9k3ns7bPbA)
+[2018-12-17](https://www.youtube.com/watch?v=eV0fHBm9W_s)
 
 [2018-11-05](https://youtu.be/FPNsNa8Qdi8) ([backup copy](https://drive.google.com/file/d/1wxZ1gwpru4aSYJdAObcJgpH-x6ASk-iX/view?usp=sharing))
 
