@@ -1,6 +1,8 @@
-# Links to Bi-weekly Call Recordings
+# Links to Bi-weekly + Other Calls Recordings
 
-[2018-12-17](https://www.youtube.com/watch?v=eV0fHBm9W_s)
+[2018-12-19 - 2019 Q1 OKR Discussion](https://youtu.be/N43cJ-4A8Lc)
+
+[2018-12-17](https://www.youtube.com/watch?v=eV0fHBm9W_s) (note:  sound was accidentally not captured - apologizes!)
 
 [2018-11-05](https://youtu.be/FPNsNa8Qdi8) ([backup copy](https://drive.google.com/file/d/1wxZ1gwpru4aSYJdAObcJgpH-x6ASk-iX/view?usp=sharing))
 
