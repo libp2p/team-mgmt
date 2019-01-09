@@ -25,7 +25,7 @@ We also archive [recordings of the previous calls](https://github.com/libp2p/pm/
 
 # Other ways to get involved in libp2p
 
-* Join us on #libp2p on freenode
+* Join us on #libp2p on freenode (you need a [registered nickname](https://freenode.net/kb/answer/registration) in order to be able to speak)
 * Explore the [libp2p.io](https://libp2p.io/) website
 * Check our [public calendar](https://calendar.google.com/calendar/b/1?cid=bGlicDJwLmlvXzBxOTY4MmkzdGU3ZWFuaGU5cTdhZTFjNThnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for other events
 
