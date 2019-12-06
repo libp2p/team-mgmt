@@ -16,7 +16,7 @@
 - Weekly updates 
 - ?
 
-## Biweekly updates
+## Weekly updates
 
 - @me:
   - Done:
